@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Mitali Gupta
-- 💻 Front End Developer
-- 🌱 I’m currently learning as much as I possibly can..😅
-- 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach [me](mailto:milaticwa@gmail.com)
