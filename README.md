@@ -27,6 +27,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org/api/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/128px-Node.js_logo.svg.png" alt="Node.js" width="60"></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/180617223-47849d60-5538-43b7-8474-77d9db58728b.png" alt="npm" width="40"></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/180755429-687cd845-0559-4140-9069-4a453ac307b7.png" alt="Express.js" height="18"></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"></a>
@@ -34,7 +35,7 @@
 <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/179355291-0f7b3dae-ad47-4186-8371-f33ccdd192ff.svg" alt="autodesk-fusion360" width="40" height="40"></a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/179355900-a860afe3-ba63-4256-a7b4-760c0f416a7c.png" alt="Canva" width="40" height="40"></a>
 
 
-  
+ 
   
 </p>
 
@@ -42,8 +43,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitali2700&show_icons=true&locale=en&layout=compact" alt="mitali2700" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitali2700&show_icons=true&locale=en" alt="mitali2700" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitali2700&" alt="mitali2700" /></p>
-
