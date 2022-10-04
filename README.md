@@ -43,11 +43,6 @@
 </p>
 
 
-<p>
-<img  src="https://github-readme-stats.vercel.app/api?username=shikharcodes&show_icons=true&theme=tokyonight&locale=en" alt="shikharcodes" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shikharcodes&langs_count=8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shikharcodes" />
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humsarika&" alt="humsarika" /></p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitali2700&show_icons=true&locale=en&layout=compact" alt="mitali2700" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitali2700&show_icons=true&locale=en" alt="mitali2700" /></p>
