@@ -42,8 +42,5 @@
 </p>
 
 
-
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitali2700&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mitali2700" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitali2700&show_icons=true&locale=en&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox" alt="Mitali2700" /><br> 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mitali2700&theme=gruvbox"> <img src="https://user-images.githubusercontent.com/78539161/205430997-36548f42-eae7-448b-973e-2c0256f98cb2.gif" align="right">
