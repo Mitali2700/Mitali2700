@@ -39,7 +39,11 @@
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/191458785-b3f513f0-89b0-4951-8c06-5ebd8a16e67d.png" alt="wordpress.org" width="40" ></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/204562269-ab9315c1-fbc7-467c-a41a-bfc05f23f244.jpeg" alt="netlify" width="40" ></a>
 <a><img src="https://user-images.githubusercontent.com/78539161/205732559-adee8272-c55d-459a-a4bf-61696d019b56.png" width="40"></a>
+  <a><img src="https://user-images.githubusercontent.com/78539161/212556465-72571259-3e64-40bb-bc31-04af1e8a87bb.png"  width="40"></a>
 </p>
+
+
+
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitali2700&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mitali2700" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitali2700&show_icons=true&locale=en&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox" alt="Mitali2700" /><br> 
