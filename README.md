@@ -39,6 +39,8 @@
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/191458785-b3f513f0-89b0-4951-8c06-5ebd8a16e67d.png" alt="wordpress.org" width="40" ></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/204562269-ab9315c1-fbc7-467c-a41a-bfc05f23f244.jpeg" alt="netlify" width="40" ></a>
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/78539161/212556465-72571259-3e64-40bb-bc31-04af1e8a87bb.png"  width="40"></a>
+  <a href="https://tailwindcss.com/docs/installation"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFADGHVy3bKtrADgifUG7Xr4bCg_CFIAnBP4xnUhQT&s" width="40"></a>
+ 
 </p>
 
 
