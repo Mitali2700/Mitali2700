@@ -16,13 +16,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/78539161/205105148-1114dedb-3a54-45e4-b36a-758d6d4a85b5.gif" width="400"></p>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mitali-gupta-506a69208/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78539161/205430215-c332fb17-1392-41a2-8b73-b32f1ae20acc.png" alt="linkedin" height="30" width="30" /></a>  <a href="https://instagram.com/mitalii27" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78539161/205430294-f935c53a-f023-42eb-9814-c3da4dcda038.jpeg" alt="insta" height="30" width="30" /></a>  <a href="https://replit.com/@MITALIGUPTA" target="blank"><img align= "center" src="https://user-images.githubusercontent.com/78539161/181254713-cd647b34-ecdc-45c9-81d5-05803a562e11.png"  height="30" width="30" /></a>
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78539161/205430417-53ce1026-6dee-4cf0-9c2d-36c66d55fc3a.png" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/179682340-fcb86e2b-bdbe-4c52-a827-a12e669a58a3.png" alt="jQuery" width="20" height="20"></a> 
